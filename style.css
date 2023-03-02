@@ -31,15 +31,13 @@ body {
 }
 
 #form-search {
-    width: 300px;
     height: 40px;
     border: 3px solid #eaeaea;
     border-radius: 5px;
     background-color: white;
     outline: none;
-    text-indent: 40px;
     margin: 12px 0px;
-    text-align: center;
+    padding: 11px 10px 10px 170px;
 }
 
 .search {
